@@ -24,7 +24,7 @@
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> </a>&nbsp;&nbsp;
 
-<a href="https://www.python.org" target="_blank">
+<!-- <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>&nbsp;&nbsp;
 
 <a href="https://www.djangoproject.com/" target="_blank">
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> </a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> </a>&nbsp;&nbsp; -->
 
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a>&nbsp;&nbsp;
