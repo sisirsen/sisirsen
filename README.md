@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sisir Sen</h1>
-<h3>I am a software developer, currently focused on building strong foundations in web development and data structures. I am learning 'HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'React' for frontend development, and 'Python' with 'Django' for backend development. </h3>
+<h3>I am a fullstack developer(in progress), currently focused on building strong foundations in web development and data structures. I am learning 'HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'React' for frontend development, and 'Python' with 'Django' for backend development. </h3>
 <h3>My goal is to become a skilled full-stack developer and secure a software developer role where I can solve real-world problems through code. I am also actively improving my problem-solving skills by practicing 'Data Structures and Algorithms' using 'Java'. </h3>
 <h3>I believe in consistent learning, building projects, and continuously improving my technical skills. </h3>
 
