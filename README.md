@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sisir Sen</h1>
-<h3>I am a frontend developer, currently focused on building strong foundations in web development and data structures. I have learned 'HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'React'(ongoing) for frontend development, and later 'Python' with 'Django' for backend development is planned. </h3>
+<h3>I am a frontend developer, currently focused on building strong foundations in web development and data structures. I have learned 'HTML', 'CSS', 'Tailwind CSS', 'JavaScript', 'React'(ongoing) for frontend development, and later 'Python' with 'Django' for backend development is planned. And for database SQL is planned. </h3>
 <h3>My goal is to become a skilled developer and secure a software developer or web developer role where I can solve real-world problems through my code and contribution. I am also actively improving my problem-solving skills by practicing 'Data Structures and Algorithms' using 'Java'. </h3>
 <h3>I believe in consistent learning, building projects, and continuously improving my technical skills. </h3>
 
