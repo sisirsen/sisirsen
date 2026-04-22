@@ -3,11 +3,11 @@
 <h3>My goal is to become a skilled developer and secure a software developer or web developer role where I can solve real-world problems through my code and contribution. I am also actively improving my problem-solving skills by practicing 'Data Structures and Algorithms' using 'Java'. </h3>
 <h3>I believe in consistent learning, building projects, and continuously improving my technical skills. </h3>
 
-
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sisir_codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sisir-sen/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://www.leetcode.com/xstreamecoder)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/sisirsens-projects)
 
 ---
 
